@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a36752bae75a870ddc2e64eb56c59514ed043cb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.2.3/f474798fde03291398b1a016118b9809a79550b7/MPAndroidChart-v2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f474798fde03291398b1a016118b9809a79550b7">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v2.2.3_4635cb6c8a7821b70625fd2eb6897afe729a5b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_5100218be739ec979bb3c3c5f5734ce673831a0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a26ceaf3101c0ddceb0e651889994274c59f30fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_188932c8c468631187205c9bb54cbd0d3aff3ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_b637125a9fe6252301a23c1053cd91c608c8fe5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_e4749b7c904959575473ccbfab55fcec5f58cd36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_2c203199d5538efe39205d6e6d62783eea10c98a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_35ba711b1fbc98ff8e0ee58ec771bcb0820a854b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_c65901bbe471ddc878674b0d3aedcbfe90b3a49a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_8387c509f8a2afabe8d3648cd0858595b6c3d931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/library-2.4.0_7151de72d70ff5cee29d7e5522edbacb2ae7da5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_2029a51c2e9f005f01212e08597dca13efbee119.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_a497cac6a9f9ced238fcf7fe45f014c0f60d574b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_49c9058ed9bf5cc13bfb5f5d09402fb4eb043118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_8d71e4178a4c56339ebd27f974c9607810069b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_0efb1f6c4346cb47428aefe30bb1f3939c777b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_3eefa8e28b99bcca889b6518d0d23bcbad2f80a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e432fc549cdf78831e12ed777e72f0f2901ff972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_d06122521a0a6c5cbfa29b896fb4f2ab8af3c105.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_1312646d20ee2509bc091264ee8cf9bc13b5f2b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/exploded-aar/net.i2p.android.ext/floatingactionbutton/1.10.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03bb03938a4c7792c8168e6fee71253669d53407">
+        <dex dex="/Users/NRUPESH/Desktop/ITMUniverse/app/build/intermediates/pre-dexed/debug/net.i2p.android.ext-floatingactionbutton-1.10.1_f2e64a8710e478e917822f79f34ba5391b1e32ee.jar" />
+    </item>
+
+</items>

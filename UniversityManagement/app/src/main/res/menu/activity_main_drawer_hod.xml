@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_branchSubject"
+            android:icon="@drawable/ic_tab_branch"
+            android:title="Branch - Subject" />
+        <item
+            android:id="@+id/nav_facultySubject"
+            android:icon="@drawable/ic_tab_hod"
+            android:title="Faculty - Subject" />
+        <item
+            android:id="@+id/nav_classStudent"
+            android:icon="@drawable/ic_tab_subject"
+            android:title="Class - Student" />
+
+        <!--<item
+            android:id="@+id/nav_classTimeTable"
+            android:icon="@drawable/ic_date"
+            android:title="Class - TimeTable" />-->
+    </group>
+
+    <!--<item android:title="Settings">
+        <menu>
+            <item
+                android:id="@+id/nav_profile"
+                android:icon="@drawable/ic_edit_profile"
+                android:title="Edit Profile" />
+            <item
+                android:id="@+id/nav_password"
+                android:icon="@drawable/ic_password"
+                android:title="Change Password" />
+        </menu>
+    </item>-->
+
+</menu>
