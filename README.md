@@ -1,5 +1,4 @@
-# University Management
-
+<h1 align="center">University Management</h1>
 <p align="center">
 <a href="https://github.com/Nrupesh29/University-Management/blob/master/LICENSE" rel="Licence"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" /></a>
 <a href="" rel="Platform"><img src="https://img.shields.io/badge/platform-Android-orange.svg" /></a>
